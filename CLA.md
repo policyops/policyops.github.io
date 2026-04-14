@@ -18,3 +18,6 @@ the contributor agrees that:
 
 5. Contributions are submitted voluntarily without expectation of compensation,
    ownership retention, or control over future project direction.
+
+6. Submission of a pull request, patch, issue-attached code, or other contribution
+   constitutes acceptance of this agreement.
