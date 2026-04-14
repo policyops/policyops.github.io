@@ -2,29 +2,35 @@
 
 All contributions are subject to sole review and acceptance by the repository owner.
 
-Submission of a pull request does not imply entitlement to merge, discussion,
-response, or inclusion.
+Submission of a pull request does not create any entitlement to review, response,
+discussion, merge, or inclusion.
 
-This repository does not accept code, documentation, or design contributions
-generated wholly or substantially by AI systems, code assistants, or automated
-generation tools.
+The repository owner may accept or reject any contribution at their sole discretion,
+with no obligation to provide explanation, feedback, or further engagement.
+
+## Authorship Requirements
 
 Contributions must originate from a human contributor capable of understanding,
 explaining, and defending the submitted work.
 
-Automated generation systems, autonomous coding agents, and machine-generated submissions
-do not satisfy authorship requirements for this repository.
+Automated systems, AI agents, generated submissions, and machine-produced pull requests
+are not recognized as contributors and are not accepted as sources of authorship.
 
-The repository owner may reject any contribution suspected of automated generation,
-including code that cannot be clearly explained, justified, or defended by the contributor.
+Any contribution suspected of automated generation, or which cannot be clearly explained
+and justified by the contributor, may be rejected without review.
 
-Contributors may be asked to explain design rationale, invariants, edge cases,
+## Quality Requirements
+
+Contributors may be required to explain design rationale, invariants, edge cases,
 and operational consequences of submitted changes.
 
 Code that is stylistically inconsistent, insufficiently reasoned, redundant,
 or operationally unclear may be rejected without obligation to provide correction.
 
-Failure to demonstrate authorship or understanding is grounds for rejection without
-further review.
+Failure to demonstrate authorship or understanding is grounds for immediate rejection.
+
+## Agreement
 
 Submission of a contribution constitutes acceptance of CLA.md.
+
+The repository owner reserves the right to ignore or close contributions without review.
