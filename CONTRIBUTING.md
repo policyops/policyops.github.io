@@ -1,20 +1,17 @@
-# Contributor Assignment Agreement
+# Contribution Policy
 
-By submitting any code, documentation, patch, or other contribution to this repository,
-the contributor agrees that:
+All contributions are subject to sole review and acceptance by the repository owner.
 
-1. The contribution is an original work of the contributor, or the contributor has
-   sufficient rights to submit it.
+Submission of a pull request does not imply entitlement to merge, discussion,
+response, or inclusion.
 
-2. The contributor irrevocably assigns all rights, title, and interest in the
-   contribution, including all copyright and related intellectual property rights,
-   to the repository owner.
+Contributions generated wholly or substantially by automated systems, including
+AI-generated code, may be rejected without review at the sole discretion of the
+repository owner.
 
-3. The repository owner has sole authority to accept, reject, modify, integrate,
-   redistribute, relicense, or remove any contribution.
+Contributors must understand, explain, and defend submitted code if requested.
 
-4. Submission of a contribution does not create any governance right, ownership claim,
-   maintenance right, or decision-making authority for the contributor.
+Code that is stylistically inconsistent, insufficiently reasoned, redundant,
+or operationally unclear may be rejected without obligation to provide correction.
 
-5. Contributions are submitted voluntarily without expectation of compensation,
-   ownership retention, or control over future project direction.
+Submission of a contribution constitutes acceptance of CLA.md.
