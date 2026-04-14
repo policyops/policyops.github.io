@@ -10,14 +10,16 @@ with no obligation to provide explanation, feedback, or further engagement.
 
 ## Authorship Requirements
 
-Contributions must originate from a human contributor capable of understanding,
-explaining, and defending the submitted work.
+The contributor must be the intellectual author of the submission. The contributor
+must be capable of explaining and defending the design rationale, implementation
+details, edge cases, and operational consequences of every aspect of the submitted
+work.
 
-Automated systems, AI agents, generated submissions, and machine-produced pull requests
-are not recognized as contributors and are not accepted as sources of authorship.
+Tools used in the creation process are not restricted, but authorship and accountability
+rest solely with the human contributor.
 
-Any contribution suspected of automated generation, or which cannot be clearly explained
-and justified by the contributor, may be rejected without review.
+Submissions that cannot be clearly explained and justified by the contributor will be
+rejected without review.
 
 ## Quality Requirements
 
@@ -31,6 +33,8 @@ Failure to demonstrate authorship or understanding is grounds for immediate reje
 
 ## Agreement
 
-Submission of a contribution constitutes acceptance of CLA.md.
+Contributors must acknowledge acceptance of <CLA.md> by including a
+`Signed-off-by` line in their commit message or a written statement in their
+submission. Contributions without explicit acknowledgment will not be reviewed.
 
 The repository owner reserves the right to ignore or close contributions without review.
